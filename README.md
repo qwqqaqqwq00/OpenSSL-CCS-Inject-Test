@@ -11,5 +11,7 @@ v0.2 - Updated record processing to recognize closure alert when included in the
 
 v0.3 - Revised wording to clarify tool output and updated logic to properly recognize session termination outside of standard RFC2246 
 
+changed here: use python3 syntax
+
 This offline tool is not supported and is provided for informational purposes only.
 This tool uses Python – license information is available here: http://opensource.org/licenses/Python-2.0
