@@ -14,4 +14,4 @@ v0.3 - Revised wording to clarify tool output and updated logic to properly reco
 changed here: use python3 syntax
 
 This offline tool is not supported and is provided for informational purposes only.
-This tool uses Python – license information is available here: http://opensource.org/licenses/Python-2.0
+This tool uses Python
